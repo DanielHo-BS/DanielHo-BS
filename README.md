@@ -1,16 +1,37 @@
-### Hi there 👋
+<h2> Hey there! I'm DanielHo-BS. <h2>
 
-<!--
-**DanielHo-BS/DanielHo-BS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently learning Machine Learing, Image Processing and Computer Vision.
+- 🎓 &nbsp; Studying Electrical Engineering from NTUST in Taiwan.
+- 🌱 &nbsp; Enthusiast in Computer Vision and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and playing games of PC. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 Tech Stack </h3>
+
+- 💻 &nbsp; Python | Matlab | C++
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Illustrator | Photoshop
+
+<h3> 🤖 Project </h3>
+
+- 🟠 &nbsp; [Cheat Sheet](https://github.com/DanielHo-BS/cheat-sheet) | [Special Projects](https://github.com/DanielHo-BS/Special-Projects) | [MSPL](https://github.com/DanielHo-BS/MSPL)
+- 🟡 &nbsp; [YOLO DocumentAnalysis](https://github.com/DanielHo-BS/YOLO-DocumentAnalysis) | [Signals And Systeam Lab](https://github.com/DanielHo-BS/SignalsAndSysteam)
+- 🔵 &nbsp; [Machine learning](https://github.com/DanielHo-BS/MachineLearning) | [Ultrasound](https://github.com/DanielHo-BS/Ultrasound) | [Image Processing](https://github.com/DanielHo-BS/ImageProcessing) | [MRI](https://github.com/DanielHo-BS/MRI) | [Biomedical Signal Processing](https://github.com/DanielHo-BS/BiomedicalSignalProcessing) | [EmbeddingOS](https://github.com/DanielHo-BS/EmbeddingOS)
+- 🟣  &nbsp; [Roscube Doc](https://github.com/DanielHo-BS/roscube-doc) | [AI Performance](https://github.com/DanielHo-BS/AI_performance) | [coco2yolo](https://github.com/DanielHo-BS/coco2yolo)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=DanielHo-BS&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=DanielHo-BS&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=DanielHo-BS&show_icons=true" />
+</picture>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHo-BS&layout=compact)](https://github.com/DanielHo-BS/github-readme-stats)
