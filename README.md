@@ -22,17 +22,9 @@
 - 🟢 &nbsp; [MRI](https://github.com/DanielHo-BS/MRI) | [Ultrasound](https://github.com/DanielHo-BS/Ultrasound) |  [Biomedical Signal Processing](https://github.com/DanielHo-BS/BiomedicalSignalProcessing) | 
 - 🟣 &nbsp; [Roscube Doc](https://github.com/DanielHo-BS/roscube-doc) | [AI Performance](https://github.com/DanielHo-BS/AI_performance) | [coco2yolo](https://github.com/DanielHo-BS/coco2yolo)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=DanielHo-BS&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=DanielHo-BS&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=DanielHo-BS&show_icons=true" />
-</picture>
+<h3 align="left">📊 Github Stat</h3>
+
+![GitHub Snake Light](https://github.com/DanielHo-BS/DanielHo-BS/blob/output/github-contribution-grid-snake.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHo-BS&layout=compact)](https://github.com/DanielHo-BS/github-readme-stats)
