@@ -26,9 +26,6 @@
 
 ![GitHub Snake Light](https://github.com/DanielHo-BS/DanielHo-BS/blob/output/github-contribution-grid-snake.svg)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHo-BS&layout=compact)](https://github.com/DanielHo-BS/github-readme-stats)
-
 <img src="https://github.com/DanielHo-BS/DanielHo-BS/blob/master/cat_bg.jpg">
 
 
