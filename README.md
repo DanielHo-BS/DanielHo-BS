@@ -26,6 +26,10 @@
 
 ![GitHub Snake Light](https://github.com/DanielHo-BS/DanielHo-BS/blob/output/github-contribution-grid-snake.svg)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielHo-BS&theme=shadow-blue&hide_border=true&mode=weekly&card_width=990)](https://git.io/streak-stats)
+
 <img src="https://github.com/DanielHo-BS/DanielHo-BS/blob/master/cat_bg.jpg">
+
+
 
 
