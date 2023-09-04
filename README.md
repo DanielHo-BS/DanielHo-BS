@@ -9,10 +9,7 @@
 
 <h3> 🛠 Tech Stack </h3>
 
-- 💻 &nbsp; Python | Matlab | C++
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Illustrator | Photoshop
+[![My Skills](https://skillicons.dev/icons?i=python,matlab,cpp,mysql,docker,git,vscode,ps,ai&perline=3)](https://skillicons.dev)
 
 <h3> 🤖 Project </h3>
 
