@@ -14,7 +14,7 @@
 <h3> 🤖 Project </h3>
 
 - 🟠 &nbsp; [Cheat Sheet](https://github.com/DanielHo-BS/cheat-sheet) | [Special Projects](https://github.com/DanielHo-BS/Special-Projects) | [MSPL](https://github.com/DanielHo-BS/MSPL) | [CPP](https://github.com/DanielHo-BS/CPP)
-- 🟡 &nbsp; [YOLO DocumentAnalysis](https://github.com/DanielHo-BS/YOLO-DocumentAnalysis) | [Signals And Systeam Lab](https://github.com/DanielHo-BS/SignalsAndSysteam)
+- 🟡 &nbsp; [YOLO DocumentAnalysis](https://github.com/DanielHo-BS/YOLO-DocumentAnalysis) | [Signals And Systeam Lab](https://github.com/DanielHo-BS/SignalsAndSysteam) | [MixCLDehazeNet](https://github.com/DanielHo-BS/MixCLDehazeNet)
 - 🔵 &nbsp; [Machine learning](https://github.com/DanielHo-BS/MachineLearning) | [Computer Vision](https://github.com/DanielHo-BS/Computer-Vision) | [Image Processing](https://github.com/DanielHo-BS/ImageProcessing) | [EmbeddingOS](https://github.com/DanielHo-BS/EmbeddingOS) | [Advanced Computer Graphics](https://github.com/DanielHo-BS/AdvancedComputerGraphics)
 - 🟢 &nbsp; [MRI](https://github.com/DanielHo-BS/MRI) | [Ultrasound](https://github.com/DanielHo-BS/Ultrasound) |  [Biomedical Signal Processing](https://github.com/DanielHo-BS/BiomedicalSignalProcessing) | 
 - 🟣 &nbsp; [Roscube Doc](https://github.com/DanielHo-BS/roscube-doc) | [AI Performance](https://github.com/DanielHo-BS/AI_performance) | [coco2yolo](https://github.com/DanielHo-BS/coco2yolo)
