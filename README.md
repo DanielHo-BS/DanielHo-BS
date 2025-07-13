@@ -19,7 +19,7 @@
 - 🟢 &nbsp; [MRI](https://github.com/DanielHo-BS/MRI) | [Ultrasound](https://github.com/DanielHo-BS/Ultrasound) |  [Biomedical Signal Processing](https://github.com/DanielHo-BS/BiomedicalSignalProcessing) | 
 - 🟣 &nbsp; [Roscube Doc](https://github.com/DanielHo-BS/roscube-doc) | [AI Performance](https://github.com/DanielHo-BS/AI_performance) | [coco2yolo](https://github.com/DanielHo-BS/coco2yolo)
 - ⚪ &nbsp; [AnonymousMessage](https://github.com/DanielHo-BS/AnonymousMessage) | [NewsBot-AI
-](https://github.com/DanielHo-BS/NewsBot-AI)
+](https://github.com/DanielHo-BS/NewsBot-AI) | [ExchangeRateDashboard](https://github.com/DanielHo-BS/ExchangeRateDashboard)
 
 <h3 align="left">📊 Github Stat</h3>
 
